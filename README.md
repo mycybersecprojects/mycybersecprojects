@@ -8,6 +8,35 @@ https://github.com/mycybersecprojects/ActiveDirectory
 
 https://www.youtube.com/watch?v=tIM-kdmKhnE
 
+https://www.youtube.com/watch?v=eCJA1F72izc
+
+<h2> 🤳 Projects:</h2>
+
+https://github.com/king04aman/KeyLogger
+
+https://github.com/ezhil56x/Wifi-Deauthentication-Tool
+
+https://github.com/0xM1cx/Basic_Network_Scanner
+
+https://github.com/ashutoshb47/Spyware
+
+Make a password manager
+
+<h2> 🤳 OSINT Tools:</h2>
+
+
+<h2> 🤳 My Raspberry Pie Home Lab:</h2>
+
+Accessories
+
+
+Applications
+
+Projects
+
+Full Guide to Self-Hosting Password Manager Bitwarden on Raspberry Pi
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="erkamkoca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
